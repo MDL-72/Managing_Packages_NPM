@@ -3,6 +3,7 @@
 	"author": "MDL-72",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "to code",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
