@@ -2,12 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "MDL-72",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"keywords": [
+		"descriptive",
+		"freecodecamp",
+		"words"
+	],
 	"license": "to code",
 	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "~2.10.2"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
